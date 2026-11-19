@@ -1,0 +1,12 @@
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\bin\Debug\net10.0\RogueArena.Core.deps.json
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\bin\Debug\net10.0\RogueArena.Core.dll
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\bin\Debug\net10.0\RogueArena.Core.pdb
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.GeneratedMSBuildEditorConfig.editorconfig
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.AssemblyInfoInputs.cache
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.AssemblyInfo.cs
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.csproj.CoreCompileInputs.cache
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.sourcelink.json
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.dll
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\obj\Debug\net10.0\refint\RogueArena.Core.dll
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\obj\Debug\net10.0\RogueArena.Core.pdb
+z:\38748\PP\Lab8\RogueArena\RogueArena.Core\obj\Debug\net10.0\ref\RogueArena.Core.dll
